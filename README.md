@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: MernStack Developer<br>❓ Ask me about anything about to MERN stack and related technologies</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: MernStack Developer<br>❓ Ask me about anything about MERN stack and related technologies</p>
 
 ###
 
